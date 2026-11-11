@@ -1,0 +1,12 @@
+{
+  "name": "peseta",
+  "description": "Peseta: mide a dónde van los tokens de Claude Code y recorta solo lo que sobra.",
+  "owner": { "name": "charliebusbus" },
+  "plugins": [
+    {
+      "name": "peseta",
+      "source": "./",
+      "description": "Mide a dónde van los tokens de Claude Code y recorta solo lo que sobra."
+    }
+  ]
+}

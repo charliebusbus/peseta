@@ -1,0 +1,8 @@
+{
+  "name": "peseta",
+  "version": "0.3.0",
+  "description": "Claude Code que mira la peseta: mide a dónde van los tokens y recorta solo lo que sobra.",
+  "author": { "name": "charliebusbus" },
+  "repository": "https://github.com/charliebusbus/peseta",
+  "license": "MIT"
+}
